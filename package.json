@@ -1,0 +1,15 @@
+{
+  "name": "lumenata_test",
+  "version": "1.0.0",
+  "description": "lumenata_test",
+  "main": "create_schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "pg": "^8.13.0"
+  }
+}
